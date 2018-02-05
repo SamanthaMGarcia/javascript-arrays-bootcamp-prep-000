@@ -3,6 +3,6 @@ function addElementToBeginningOfArray(array, element) {
  return (['foo', 1])
 }
 function destructivelyAddElementToBeginningOfArray(array, element) {
-  ["foo", 1, ...chocolateBars]
+  ['foo', 1 ...chocolateBars]
   return (['foo', 1])
 }
